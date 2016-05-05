@@ -6,7 +6,12 @@ public class AudioPlayerDemo {
 
 	public static void main(String[] args) {
 		MediaPlayer player = new AudioPlayer();
-		player = 
+		player.play("MP3","Jingo");
+		player.play("VLC","Jingo");
+		player.play("MP3","Jingo");
+		player.play("MP3","Jingo");
+		player.play("MP3","Jingo");
+		player.play("MP3","Jingo");
 		
 	}
 
